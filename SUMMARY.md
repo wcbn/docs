@@ -6,6 +6,8 @@
 
 * [Disclaimer](constitution/disclaimer.md)
 * [Contents](constitution/contents/README.md)
+  * [Bylaws](constitution/contents/bylaws/README.md)
+    * [Introduction](constitution/contents/bylaws/introduction.md)
   * [Introduction](constitution/contents/introduction/README.md)
     * [Constitution](constitution/contents/introduction/constitution.md)
     * [Relationship with the University](constitution/contents/introduction/relationship-with-the-university.md)
