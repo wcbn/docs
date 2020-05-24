@@ -6,6 +6,13 @@
 
 * [Disclaimer](constitution/disclaimer.md)
 * [Contents](constitution/contents/README.md)
+  * [Membership](constitution/contents/membership.md)
+  * [Untitled](constitution/contents/untitled/README.md)
+    * [Network Apprentices](constitution/contents/untitled/network-apprentices.md)
+    * [Network Members](constitution/contents/untitled/network-members.md)
+    * [Non-student Members](constitution/contents/untitled/non-student-members.md)
+    * [Responsibilities of Network Members](constitution/contents/untitled/responsibilities-of-network-members.md)
+    * [Non-Descrimination](constitution/contents/untitled/non-descrimination.md)
   * [Introduction](constitution/contents/introduction/README.md)
     * [Constitution](constitution/contents/introduction/constitution.md)
     * [Relationship with the University](constitution/contents/introduction/relationship-with-the-university.md)
