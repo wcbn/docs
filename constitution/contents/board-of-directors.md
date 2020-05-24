@@ -62,21 +62,3 @@ If a Board Member feels that an elected Board Member is remiss in his/her duties
 
 If a Board Member feels that an appointed Board Member is remiss in his/her duties, he/she may propose a motion to petition to remove this person from the Board. If three-quarters of the Board is in agreement that this person needs to be replaced, the General Manager will write a petition to the appropriate Office of the Vice President. This petition shall contain the reasons for this action and will contain the signatures of all Board Members that voted to remove this person.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
