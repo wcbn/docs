@@ -6,12 +6,6 @@
 
 * [Disclaimer](constitution/disclaimer.md)
 * [Contents](constitution/contents/README.md)
-  * [Membership](constitution/contents/membership/README.md)
-    * [Network Apprentices](constitution/contents/membership/network-apprentices.md)
-    * [Network Members](constitution/contents/membership/network-members.md)
-    * [Non-student Members](constitution/contents/membership/non-student-members.md)
-    * [Responsibilities of Network Members](constitution/contents/membership/responsibilities-of-network-members.md)
-    * [Non-Descrimination](constitution/contents/membership/non-descrimination.md)
   * [Introduction](constitution/contents/introduction/README.md)
     * [Constitution](constitution/contents/introduction/constitution.md)
     * [Relationship with the University](constitution/contents/introduction/relationship-with-the-university.md)
@@ -45,4 +39,10 @@
     * [Executive Directors](constitution/contents/the-general-manager/executive-directors.md)
     * [Handbook](constitution/contents/the-general-manager/handbook.md)
     * [Jurisdiction](constitution/contents/the-general-manager/jurisdiction.md)
+  * [Membership](constitution/contents/membership/README.md)
+    * [Network Apprentices](constitution/contents/membership/network-apprentices.md)
+    * [Network Members](constitution/contents/membership/network-members.md)
+    * [Non-student Members](constitution/contents/membership/non-student-members.md)
+    * [Responsibilities of Network Members](constitution/contents/membership/responsibilities-of-network-members.md)
+    * [Non-Descrimination](constitution/contents/membership/non-descrimination.md)
 
