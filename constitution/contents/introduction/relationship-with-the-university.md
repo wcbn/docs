@@ -1,4 +1,0 @@
-# Relationship with the University
-
-The Campus Broadcasting Network has a very specific relationship to the University. The Regents of the University of Michigan hold the license of WCBN-FM and are charged by the Federal Government with responsibility for its operations. This includes programming, broadcast transmission, and the actions of management and staff. Similarly, the many supporting departments at the Campus Broadcasting Network also operate under the umbrella of the University and its officers. Therefore the General Manager, the Board of Directors, the Executive Directors, and all Network Members are representatives of the University community and are empowered, albeit in different degrees, to make decisions concerning the Network as agents of the Regents of the University of Michigan.
-
