@@ -1,0 +1,4 @@
+# Date, Term, and Incomplete Term
+
+The General Manager shall be elected by the Board of Directors in April of each year to a one year term beginning on May 1. Should the General Manager be unable to complete the term of office, the Board of Directors shall meet to elect another person to complete the term. the outgoing General Manager may appoint an Acting General Manager, who shall serve only until a Board meeting is held and a new General Manager is elected. An Acting General Manager may be a candidate for election to complete the term of office. Upon appointment, an Acting General Manager shall immediately receive petitions for the office of General Manager. If the outgoing General Manager fails to appoint an Acting General Manager, then the Board of Directors shall elect by majority vote an Acting General Manager, after receiving advice from the Executive Staff and knowledgeable Network Members.
+
