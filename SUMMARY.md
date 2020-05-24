@@ -6,8 +6,7 @@
 
 * [Disclaimer](constitution/disclaimer.md)
 * [Contents](constitution/contents/README.md)
-  * [Membership](constitution/contents/membership.md)
-  * [Untitled](constitution/contents/untitled/README.md)
+  * [Membership](constitution/contents/untitled/README.md)
     * [Network Apprentices](constitution/contents/untitled/network-apprentices.md)
     * [Network Members](constitution/contents/untitled/network-members.md)
     * [Non-student Members](constitution/contents/untitled/non-student-members.md)
