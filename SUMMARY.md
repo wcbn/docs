@@ -14,4 +14,4 @@
 
 ## Technical Documentation
 
-* [Digital Architecture](technical-documentation/index.md)
+* [Technical Architecture](technical-documentation/index.md)

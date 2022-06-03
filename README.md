@@ -1,6 +1,5 @@
 ---
-description: Your go-to resource for all things WCBN
+description: WCBN Documentation
 ---
 
 # WCBN Docs
-
