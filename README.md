@@ -1,5 +1,2 @@
----
-description: WCBN Documentation
----
+# Page 1
 
-# WCBN Docs
